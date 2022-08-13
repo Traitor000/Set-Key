@@ -1,9 +1,24 @@
 # Set-Key
 Mock repository for set key documentation for musicblocks/sugarlabs
 
-![alt
- tag](https://rawgithub.com/sugarlabs/musicblocks/master/guide/transform10.svg
- "Set Key block")
+//What can we do ? {Conceptually}
+
+The Set key block is used to set the key and mode, eg C Major.
+It allows you to change both the mode and key of how solfege is mapped to the notes.
+
+//Diagram {Blocks}
+![alt tag](https://github.com/Traitor000/Set-Key/blob/main/set_key1.svg "Set Key diagram")
+
+//RUN LIVE 
+
+
+//What does the block do ?
+
+
+//Explain functionalities with diagram
+
+
+//Explain all features and things that can be done with set key
 
 The *Set Key* block will change the key and mode of the mapping
 between solfege, e.g., `Do`, `Re`, `Mi`, to note names, e.g., `C`,
@@ -22,4 +37,5 @@ The Set-key block allows you to change both the mode and key of how solfege is m
 For example, in C major - Do is C, Re is D, Mi is E, etc
 
 In F major - Do is F, Re is G, Mi is A.
+
 The Set key block is used to set the key and mode, eg C Major
