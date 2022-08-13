@@ -64,6 +64,7 @@ depending on whether or not a *Movable Do* block is present.
 **Set Key & Scale Degree**
 
 **Set Key & Define Mode Block**
+
 ![alt
  tag](https://rawgithub.com/sugarlabs/musicblocks/master/guide/transform19.svg
  "Define mode block")
