@@ -13,11 +13,7 @@ This block allows users to access "movable Do" within Music Blocks,
 where the mapping of solfege to particular pitch changes depending on
 the user's specified tonality.
 
-<img width="340" alt="image" src="https://user-images.githubusercontent.com/75945709/184373741-4456c16d-ff38-4775-8a94-8353895dc8f9.png">
 
-<img width="184" alt="image" src="https://user-images.githubusercontent.com/75945709/184422132-f41ba588-9d5f-43ae-9ee9-20ebb7c7434e.png">
-
-<img width="179" alt="image" src="https://user-images.githubusercontent.com/75945709/184422295-51946ca2-2259-480f-b13d-1e71697f459c.png">
 
 Movable Do in combination with the Scale/Mode blocks will transpose sections of music in a nuanced way.
 
