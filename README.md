@@ -7,7 +7,7 @@ The Set key block is used to set the key and mode, eg C Major.
 It allows you to change both the mode and key of how solfege is mapped to the notes.
 
 //Diagram {Blocks}
-![alt tag](https://github.com/Traitor000/Set-Key/blob/main/set_key1.svg "Set Key diagram")
+![alt tag](https://github.com/Traitor000/Set-Key/blob/main/set_key2.svg "Set Key diagram")
 
 //RUN LIVE 
 
