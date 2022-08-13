@@ -9,10 +9,16 @@ It allows you to change both the mode and key of how solfege is mapped to the no
 //Diagram {Blocks}
 ![alt tag](https://github.com/Traitor000/Set-Key/blob/main/set_key2.svg "Set Key diagram")
 
+//Standard Notation of Set Key
+<img width="189" alt="image" src="https://user-images.githubusercontent.com/75945709/184471821-137fd558-2805-4a06-a961-6cbc1505f4be.png">
+
+
 //RUN LIVE 
 [RUN LIVE](https://musicblocks.sugarlabs.org/index.html?id=1660313021817245&run=True)
 
 //What does the block do ?
+
+You can find set key block in the left palette ->  Intervals and then can be used as shown in the above diagram.
 
 
 //Explain functionalities with diagram
