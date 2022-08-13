@@ -74,6 +74,9 @@ defining the number and size of the steps within an octave. You can
 use your custom mode with the *Set key* block.
 
 
+
+**Set Key & Custom Mode Block**
+
 ![alt
  tag](https://rawgithub.com/sugarlabs/musicblocks/master/guide/mode1.svg
  "mode widget")
