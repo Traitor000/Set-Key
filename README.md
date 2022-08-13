@@ -36,6 +36,14 @@ In F major - Do is F, Re is G, Mi is A.
 | | | For example, in C major - Do is C, Re is D, Mi is E, etc. |
 | | | In F major - Do is F, Re is G, Mi is A |
 
+| Representation | Pitch Movement | Properties |
+| --- | --- | --- |
+| Movable “Do” | Advanced transposition by mode | You also have the option of changing the mode to Minor, Major, Chromatic, and many other exotic modes like hirajoshi, as shown in the example below. |
+
+**Set Key & Scalar step**
+
+**Set Key & Scale Degree**
+
 ![alt
  tag](https://rawgithub.com/sugarlabs/musicblocks/master/guide/mode1.svg
  "mode widget")
