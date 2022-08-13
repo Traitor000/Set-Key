@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="set_key1.svg"
+   id="svg1566"
+   version="1.1"
+   height="248"
+   width="531.5">
+  <metadata
+     id="metadata1572">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1570" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg1566"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:cy="124.62227"
+     inkscape:cx="265.75"
+     inkscape:zoom="2.6472248"
+     showgrid="false"
+     id="namedview1568"
+     inkscape:window-height="974"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     id="g1544"
+     transform="matrix(0.73996017,0,0,0.82275683,103.83635,53.401739)">
+    <g
+       id="g1542"
+       transform="scale(1.5)">
+      <path
+         id="path1528"
+         style="fill:#7cd622;fill-opacity:1;stroke:#57ad02;stroke-width:1;stroke-linecap:round;stroke-opacity:1"
+         d="m 0.5,8.5 v -4 a 4,4 90 0 1 4,-4 h 4 v 2 h 10 v -2 h 31.679687 4 a 4,4 90 0 1 4,4 v 4 h -4 v -3 h -4 v 10 h 4 v -3 h 4 v 17 h -4 v -3 h -4 v 10 h 4 v -3 h 4 v 4 a 4,4 90 0 1 -4,4 h -4 H 18.5 h -1 v 2 h -8 v -2 h -1 -4 a 4,4 90 0 1 -4,-4 v -4 -21 z" />
+      <text
+         id="text1532"
+         style="font-size:10px;font-family:sans-serif;text-anchor:end;fill:#282828"><tspan
+           id="tspan1530"
+           y="24"
+           x="48">set key</tspan></text>
+      <text
+         id="text1536"
+         style="font-size:6.66667px;font-family:sans-serif;text-anchor:end;fill:#282828"><tspan
+           id="tspan1534"
+           y="12"
+           x="48">key</tspan></text>
+      <text
+         id="text1540"
+         style="font-size:6.66667px;font-family:sans-serif;text-anchor:end;fill:#282828"><tspan
+           id="tspan1538"
+           y="33"
+           x="48">mode</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g1554"
+     transform="matrix(0.73996017,0,0,0.82275683,160.07332,53.401739)">
+    <g
+       id="g1552"
+       transform="scale(1.5)">
+      <path
+         id="path1546"
+         style="fill:#7cd622;fill-opacity:1;stroke:#57ad02;stroke-width:1;stroke-linecap:round;stroke-opacity:1"
+         d="m 8.5,0.5 h 77.255859 v 20 H 8.5 v -8 -1 h -6 v 3 h -2 v -8 h 2 v 3 h 6 v -1 z" />
+      <text
+         id="text1550"
+         style="font-size:10px;font-family:sans-serif;text-anchor:start;fill:#282828"><tspan
+           id="tspan1548"
+           y="14"
+           x="13">C</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g1564"
+     transform="matrix(0.73996017,0,0,0.82275683,160.07332,79.729958)">
+    <g
+       id="g1562"
+       transform="scale(1.5)">
+      <path
+         id="path1556"
+         style="fill:#7cd622;fill-opacity:1;stroke:#57ad02;stroke-width:1;stroke-linecap:round;stroke-opacity:1"
+         d="m 8.5,0.5 h 110 v 20 H 8.5 v -8 -1 h -6 v 3 h -2 v -8 h 2 v 3 h 6 v -1 z" />
+      <text
+         id="text1560"
+         style="font-size:10px;font-family:sans-serif;text-anchor:start;fill:#282828"><tspan
+           id="tspan1558"
+           y="14"
+           x="13">major</tspan></text>
+    </g>
+  </g>
+</svg>
