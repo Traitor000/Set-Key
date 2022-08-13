@@ -40,20 +40,6 @@ In F major - Do is F, Re is G, Mi is A.
 | --- | --- | --- |
 | Movable “Do” | Advanced transposition by mode | You also have the option of changing the mode to Minor, Major, Chromatic, and many other exotic modes like hirajoshi, as shown in the example below. |
 
-**Set Key & Scalar step**
-
-**Set Key & Scale Degree**
-
-![alt
- tag](https://rawgithub.com/sugarlabs/musicblocks/master/guide/mode1.svg
- "mode widget")
-
-The *Mode* widget lets you explore modes and generate custom
-modes. You invoke the widget with the *Custom mode* block. The mode
-specified in the *Set key* block will be the default mode when the
-widget launches.
-
-
 
 
 The following chart describes the behavior of different blocks
@@ -72,3 +58,29 @@ depending on whether or not a *Movable Do* block is present.
 | Scalar Interval | Movable | Yes. Adds above/under within *nth modal pitch* space. |
 | Scalar Inversion | Movable | Yes. Inversion around a specified axis within *nth modal pitch* space. |
 | Pitch Number | Movable | No effect. Pitches can be transformed via Set Pitch Number Offset. |
+
+**Set Key & Scalar step**
+
+**Set Key & Scale Degree**
+
+**Set Key & Define Mode Block**
+![alt
+ tag](https://rawgithub.com/sugarlabs/musicblocks/master/guide/transform19.svg
+ "Define mode block")
+
+The *Define mode* block can be used to define a custom mode by
+defining the number and size of the steps within an octave. You can
+use your custom mode with the *Set key* block.
+
+
+![alt
+ tag](https://rawgithub.com/sugarlabs/musicblocks/master/guide/mode1.svg
+ "mode widget")
+
+The *Mode* widget lets you explore modes and generate custom
+modes. You invoke the widget with the *Custom mode* block. The mode
+specified in the *Set key* block will be the default mode when the
+widget launches.
+
+
+
