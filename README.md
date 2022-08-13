@@ -10,7 +10,7 @@ It allows you to change both the mode and key of how solfege is mapped to the no
 ![alt tag](https://github.com/Traitor000/Set-Key/blob/main/set_key2.svg "Set Key diagram")
 
 //RUN LIVE 
-
+[RUN LIVE](https://musicblocks.sugarlabs.org/index.html?id=1660313021817245&run=True)
 
 //What does the block do ?
 
