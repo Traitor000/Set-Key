@@ -59,9 +59,27 @@ depending on whether or not a *Movable Do* block is present.
 | Scalar Inversion | Movable | Yes. Inversion around a specified axis within *nth modal pitch* space. |
 | Pitch Number | Movable | No effect. Pitches can be transformed via Set Pitch Number Offset. |
 
-**Set Key & Scalar step**
 
 **Set Key & Scale Degree**
+
+Scale Degree with *Set Key* is a very powerful tool for expression. It
+is also very common in music pedagogy. However, because the number
+values 1-7 are hard wired into this system, it is a tool that works
+best to express seven-pitch tonal frameworks (e.g. major, minor, and
+other common seven pitch scales). For musical ideas where a more
+purely mathematical form of expression is required, Music Blocks
+offers the user the *nth Modal Pitch* block.
+
+*nth Modal Pitch* is similar to *Scale Degree* in that it is a movable
+system that uses numbers to express pitches. However, unlike *Scale
+Degree*, *nth Modal Pitch* starts at `0`, allows for negative
+numbers, and is not restricted to a seven-pitch tonal framework. `0`
+is the first pitch of the mode, `1` is the next pitch, `2` is the
+pitch above that, etc. `-1` is the pitch before the first pitch of
+the mode. This tool is expecially helpful for expressing a musical
+idea that requires computation as you can run computations directly
+on the number value. It is also helpful if you are, for example,
+creating music in a whole tone (six note) pitch space. In the case o
 
 **Set Key & Define Mode Block**
 
